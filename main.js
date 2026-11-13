@@ -32,7 +32,7 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://www.profitableratecpmnetwork.com/w1echp66rm?key=a2082186be20de965932e596251d8b89", "_blank");
+    window.open("https://asiaso.org/4/da3d20f598de7631b5d31919d921e45c", "_blank");
 });
 
 
